@@ -167,6 +167,7 @@ main {
   object-fit: cover;
   border-radius: 50%;
   box-shadow: var(--light-shadow);
+  border: 3px solid var(--clr-pink);
 }
 .person h4 {
   margin-bottom: 0.35rem;
